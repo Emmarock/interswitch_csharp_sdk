@@ -1,0 +1,44 @@
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Crypto.pdb
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Newtonsoft.Json.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\RestSharp.Portable.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\obj\Release\Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\PaymentLibrary\Crypto\obj\Release\Crypto.pdb
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\Interswitch.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\Interswitch.pdb
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\Newtonsoft.Json.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\RestSharp.Portable.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\obj\Release\Interswitch.dll
+C:\Users\babajide.apata\Documents\Visual Studio 2013\Projects\Interswitch\Interswitch\obj\Release\Interswitch.pdb
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\bin\Release\Interswitch.dll.config
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\bin\Release\Interswitch.dll
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\bin\Release\Interswitch.pdb
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\bin\Release\BouncyCastle.Crypto.dll
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\bin\Release\Microsoft.Threading.Tasks.dll
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\obj\Release\Interswitch.csprojResolveAssemblyReference.cache
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\obj\Release\Interswitch.dll
+C:\ISWPROJECT\techquest-interswitch_csharp\Interswitch\obj\Release\Interswitch.pdb
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\obj\Release\Interswitch.csprojResolveAssemblyReference.cache
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\obj\Release\Interswitch.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\obj\Release\Interswitch.pdb
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\Interswitch.dll.config
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\Interswitch.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\Interswitch.pdb
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\Newtonsoft.Json.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\RestSharp.Portable.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\Microsoft.Threading.Tasks.dll
+C:\Users\babajide.apata\Documents\CSharpSDK\Interswitch\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
