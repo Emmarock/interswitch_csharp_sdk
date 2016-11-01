@@ -1,0 +1,13 @@
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\obj\Debug\InterswitchSecure.csprojResolveAssemblyReference.cache
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\bin\Debug\InterswitchSecure.dll.config
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\bin\Debug\InterswitchSecure.dll
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\bin\Debug\InterswitchSecure.pdb
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\bin\Debug\BouncyCastle.CryptoExt.dll
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\obj\Debug\InterswitchSecure.dll
+C:\Users\evans.erhobaga-agofu\Documents\secure\InterswitchSecure\InterswitchSecure\obj\Debug\InterswitchSecure.pdb
+C:\Users\babajide.apata\Documents\My Received Files\InterswitchSecure\InterswitchSecure\bin\Debug\InterswitchSecure.dll.config
+C:\Users\babajide.apata\Documents\My Received Files\InterswitchSecure\InterswitchSecure\bin\Debug\InterswitchSecure.dll
+C:\Users\babajide.apata\Documents\My Received Files\InterswitchSecure\InterswitchSecure\bin\Debug\InterswitchSecure.pdb
+C:\Users\babajide.apata\Documents\My Received Files\InterswitchSecure\InterswitchSecure\obj\Debug\InterswitchSecure.dll
+C:\Users\babajide.apata\Documents\My Received Files\InterswitchSecure\InterswitchSecure\obj\Debug\InterswitchSecure.pdb
+C:\Users\babajide.apata\Documents\My Received Files\InterswitchSecure\InterswitchSecure\obj\Debug\InterswitchSecure.csprojResolveAssemblyReference.cache
