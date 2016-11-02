@@ -130,7 +130,7 @@ namespace Payment
         /// <param name="hashMap"></param>
         /// <param name="signedParameters"></param>
         /// <returns></returns>
-        public static async Task<string> Send(string uri, string httpMethod, object data, string token = null, List<KeyValuePair<string, string>> hashMap = null, string signedParameters = null)
+        public static async Task<object> Send(string uri, string httpMethod, object data, string token = null, List<KeyValuePair<string, string>> hashMap = null, string signedParameters = null)
         {
             try
             {
@@ -206,7 +206,7 @@ namespace Payment
             }
         }
 
-        public static void Init(string clientId, string clientSecret, string environment = "https://sandbox.interswitchng.com")
+        public static void Init(string clientId, string clientSecret, string environment = "http://172.25.20.59")
         {
             ClientId = clientId;
             ClientSecret = clientSecret;

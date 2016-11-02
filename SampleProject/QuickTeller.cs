@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Payment;
 using Newtonsoft.Json.Linq;
+using Payment.Models;
 
 namespace SampleProject
 {
@@ -48,8 +49,8 @@ namespace SampleProject
                 );
 
             Console.WriteLine("Do Enquiry ....");
-            var enquiryResponse = Interswitch.Send("/api/v1/quickteller/billers", "GET", doEnquiry, token, hashMapSecure).Result;
-            JObject json = JObject.Parse(enquiryResponse);
+            var enquiryResponse = Interswitch.Send("/quicktellerservice/api/v3/Transactions/DoInquiry", "GET", doEnquiry, token, hashMapSecure).Result;
+            JObject json = JObject.Parse(enquiryResponse.ToString());
             Console.WriteLine(json.GetValue("TransactionRef"));
             Console.WriteLine(enquiryResponse);
             Console.WriteLine("Do Enquiry done ....");
@@ -57,20 +58,18 @@ namespace SampleProject
 
             #region
             object securePayment = new
-            {
-                bankCbnCode = "058",
-                amount = "100",
-                cardBin = "53998316306",
+            {                                                                
+                TransactionRef = json.GetValue("TransactionRef"),                
+                SecureData = secureData[1],
+                PinData = secureData[0],                
                 Msisdn = "2348052678744",
-                TransactionRef = "IWP|T|Web|3IWP0001|QTFT|261016185145|00000041",
-                terminalId = "3PBL0001",
-                PinData = secureData[0],
-                SecureData = secureData[1]
+                bankCbnCode = "058",
+                amount = "100"
             };
             
             Console.WriteLine("****************************");
             Console.WriteLine("Send Payment with secure ....");
-            var secureResponse = Interswitch.Send("/api/v1/quickteller/categorys", "GET", securePayment, token, hashMap).Result;
+            var secureResponse = Interswitch.Send("/quicktellerservice/api/v3/Transactions/sendtransaction", "GET", securePayment, token, hashMap).Result;
             Console.WriteLine(secureResponse);
             Console.WriteLine("Send Payment with secure done ....");
             #endregion

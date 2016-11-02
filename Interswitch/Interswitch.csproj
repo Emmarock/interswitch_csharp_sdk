@@ -63,6 +63,7 @@
     <Compile Include="Crypto.cs" />
     <Compile Include="Interswitch.cs" />
     <Compile Include="Models\Token.cs" />
+    <Compile Include="Models\TranasactionInquiry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
