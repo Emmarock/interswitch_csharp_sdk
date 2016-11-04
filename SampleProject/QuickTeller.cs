@@ -75,6 +75,13 @@ namespace SampleProject
             #endregion
 
             Console.WriteLine("************ Secure Data Ends here ****************");
+
+
+            Console.WriteLine("##############################################");
+            Console.WriteLine("#************ Pay Code Starts here **********#");
+            var payCode = Interswitch.Send("/cardless-service/api/v1/cardless-services/tokens", "POST", securePayment, token, hashMap).Result;
+            Console.WriteLine(payCode);
+            Console.WriteLine("************ Pay Code Ends here ****************");
             #endregion
             Console.ReadKey();
         }
